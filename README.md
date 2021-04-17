@@ -49,6 +49,6 @@ This code is built based on [retina-unet](https://github.com/orobix/retina-unet)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/tuvovan/NHDRRNet/blob/master/LICENSE) file for details
+This project is licensed under the MIT License
 
 
