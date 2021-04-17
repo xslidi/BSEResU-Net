@@ -155,7 +155,7 @@ def residual_block(input_tensor, kernel_size, filters, stage, block, add_bn=True
     return x
 
 
-# Define the resU-net without maxpooling which has 3 blocks
+# Define the resU-net which has 3 depth
 def bseresunet(patch_height,patch_width,n_ch):
     width = 1
     original_inputs = Input(shape=(patch_height,patch_width,n_ch))
