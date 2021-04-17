@@ -25,9 +25,9 @@ The Tensorflow-keras Implementation of the [BSEResU-Net: An attention-based befo
     python run_training.py
     ```
 ### Testing
-    ```
-    python run_testing.py
-    ```
+```
+python run_testing.py
+```
 
 ## Results
 ![](imgs/results.png)
@@ -45,7 +45,7 @@ The Tensorflow-keras Implementation of the [BSEResU-Net: An attention-based befo
 ```
 
 ## Acknowledgments
-- This code is built based on [retina-unet](https://github.com/orobix/retina-unet) Object and we modified it to be compatible to Tensorflow 2.2+.
+This code is built based on [retina-unet](https://github.com/orobix/retina-unet) Object and we modified it to be compatible to Tensorflow 2.2+.
 
 ## License
 
