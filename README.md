@@ -45,7 +45,7 @@ python run_testing.py
 ```
 
 ## Acknowledgments
-This code is built based on [retina-unet](https://github.com/orobix/retina-unet) Object and we modified it to be compatible to Tensorflow 2.2+.
+This code is built based on [retina-unet](https://github.com/orobix/retina-unet) and we modified it to be compatible to Tensorflow 2.2+.
 
 ## License
 
